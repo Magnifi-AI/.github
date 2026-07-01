@@ -67,8 +67,6 @@ For anyone reading a Magnifi review or Magnifi app review, the most important va
 4. Connect portfolio details if you want Magnifi portfolio tracker context and personalized allocation views.  
 5. Compare options through the Magnifi investment assistant before deciding whether an idea fits your strategy.  
 
-![Magnifi research question flowing into AI insights, ETF comparison, and portfolio review](https://advisorservices.schwab.com/sites/g/files/eyrktu251/files/Magnifi-Screenshot1.png)
-
 ## Help for Common Research Friction
 
 Search results too broad: make the Magnifi ai prompt more specific by adding a sector, risk level, income goal, or investment time horizon. Portfolio view incomplete: confirm connected accounts and refresh Magnifi portfolio tracker data. ETF comparison unclear: use Magnifi ETF search with categories such as expense ratio, holdings, theme, or asset class.
